@@ -1,0 +1,501 @@
+clean_tweet,sentiment,created_at,retweet_count,favorite_count,place
+Ration shops not supplying nutritional supplements to pregnant women as promised,neg,2024-03-01,24,13,Anantapur
+Health data dashboard launched for tracking campaign performance statewide,neu,2024-03-01,14,57,Tenali
+New protocol for handling vector-borne disease outbreaks under review,neu,2024-03-01,2,216,Tirupati
+National immunization schedule updated details available at local health centers,neu,2024-03-01,49,1,Vijayawada
+Clean water campaign combined with health awareness is transforming rural communities,pos,2024-03-02,68,43,Kakinada
+The anti-tobacco campaign in colleges is working students are quitting smoking,pos,2024-03-03,57,70,Chittoor
+School health program teaching kids hygiene habits that will last a lifetime,pos,2024-03-03,137,44,Narasaraopet
+Three weeks no insulin stock at government hospital diabetics are desperate,neg,2024-03-03,112,9,Eluru
+Local volunteers doing door to door health education such a wonderful initiative,pos,2024-03-04,88,27,Srikakulam
+Nutrition awareness camp helping mothers understand balanced diet for children,pos,2024-03-04,0,163,Rajahmundry
+Government subsidized medicines reaching the right people now big improvement,pos,2024-03-04,72,71,Kadapa
+Health workers on strike again patients left to suffer this is unacceptable,neg,2024-03-04,34,109,Tenali
+New ambulance fleet of 80 vehicles allocated to underserved districts,neu,2024-03-05,21,18,Chittoor
+Revised guidelines for maternal nutrition supplements issued by ministry,neu,2024-03-05,32,0,Kadapa
+Clean water campaign combined with health awareness is transforming rural communities,pos,2024-03-05,115,31,Kurnool
+Health helpline always busy or not answered what is the point of having it,neg,2024-03-05,32,8,Tenali
+Annual malaria prevention campaign scheduled to begin next month,neu,2024-03-06,61,66,Ongole
+Sewage overflow near residential area reported two weeks ago still not fixed,neg,2024-03-06,15,251,Machilipatnam
+Campaign posters are everywhere but medicine supply in clinics is still zero,neg,2024-03-06,15,33,Vijayawada
+Children malnourished in this district while officials celebrate campaign success,neg,2024-03-07,68,14,Kadapa
+Traditional healers spreading dangerous remedies and nobody is stopping them,neg,2024-03-08,12,201,Nellore
+WHO delegation visiting state health facilities for routine assessment,neu,2024-03-09,33,142,Tenali
+Clean water campaign combined with health awareness is transforming rural communities,pos,2024-03-09,8,53,Chittoor
+The new tuberculosis awareness drive is reaching villages that were never covered before,pos,2024-03-10,51,350,Srikakulam
+Another preventable death due to lack of oxygen supply in district hospital,neg,2024-03-11,164,59,Anantapur
+Update on TB elimination roadmap to be presented at national conference,neu,2024-03-11,137,50,Tirupati
+People are dying waiting for ambulances and nobody is taking responsibility,neg,2024-03-12,7,148,Nellore
+Dengue prevention campaign has really reduced cases in our district this year,pos,2024-03-13,24,95,Kadapa
+Digital health records initiative will finally bring efficiency to our clinics,pos,2024-03-13,22,90,Chittoor
+Polio eradication effort in our state is nearly complete amazing progress,pos,2024-03-13,7,32,Bhimavaram
+Cancer screening camp detected early cases and saved lives incredible service,pos,2024-03-13,117,75,Eluru
+Medical college to collaborate with district hospitals for outreach programs,neu,2024-03-14,0,74,Tirupati
+Monsoon season and no vector control measures dengue outbreak imminent,neg,2024-03-14,5,73,Visakhapatnam
+Local volunteers doing door to door health education such a wonderful initiative,pos,2024-03-15,60,224,Eluru
+Free health checkup camp today was absolutely packed community is responding well,pos,2024-03-15,66,124,Srikakulam
+People are dying waiting for ambulances and nobody is taking responsibility,neg,2024-03-15,33,35,Tenali
+The anti-tobacco campaign in colleges is working students are quitting smoking,pos,2024-03-15,35,3,Kakinada
+Community health workers trained under new program are making huge impact,pos,2024-03-15,6,364,Visakhapatnam
+Dengue prevention campaign has really reduced cases in our district this year,pos,2024-03-17,85,36,Tenali
+District health officer to chair meeting on monsoon preparedness next week,neu,2024-03-18,26,65,Eluru
+Dengue prevention campaign has really reduced cases in our district this year,pos,2024-03-18,34,41,Tirupati
+Flu season started and there are no preventive measures in place at all,neg,2024-03-19,118,9,Rajahmundry
+Free dialysis centers opened in three more districts wonderful step forward,pos,2024-03-19,1,40,Kurnool
+New ambulance fleet of 80 vehicles allocated to underserved districts,neu,2024-03-19,13,38,Nellore
+Health ministry to release quarterly disease surveillance report on Friday,neu,2024-03-19,12,62,Narasaraopet
+Hospital staff demanding bribes from poor patients disgraceful behavior,neg,2024-03-19,71,88,Ongole
+Dengue prevention campaign has really reduced cases in our district this year,pos,2024-03-20,106,139,Tenali
+Update on TB elimination roadmap to be presented at national conference,neu,2024-03-20,51,211,Kurnool
+Local volunteers doing door to door health education such a wonderful initiative,pos,2024-03-20,37,120,Anantapur
+Awareness pamphlets printed in language nobody here speaks total waste of money,neg,2024-03-21,6,19,Srikakulam
+Annual malaria prevention campaign scheduled to begin next month,neu,2024-03-21,11,8,Kurnool
+Campaign posters are everywhere but medicine supply in clinics is still zero,neg,2024-03-21,64,136,Rajahmundry
+Update on TB elimination roadmap to be presented at national conference,neu,2024-03-21,2,476,Tirupati
+Update on TB elimination roadmap to be presented at national conference,neu,2024-03-21,10,64,Machilipatnam
+Sewage overflow near residential area reported two weeks ago still not fixed,neg,2024-03-21,48,15,Guntur
+Digital health records initiative will finally bring efficiency to our clinics,pos,2024-03-22,45,5,Visakhapatnam
+Free health checkup camp today was absolutely packed community is responding well,pos,2024-03-23,48,1,Vizianagaram
+Rural hospitals have no doctors only empty buildings funded by our taxes,neg,2024-03-23,57,14,Tenali
+Sewage overflow near residential area reported two weeks ago still not fixed,neg,2024-03-23,74,66,Tenali
+Polio eradication effort in our state is nearly complete amazing progress,pos,2024-03-23,15,159,Kurnool
+Free dialysis centers opened in three more districts wonderful step forward,pos,2024-03-23,98,413,Narasaraopet
+Campaign posters are everywhere but medicine supply in clinics is still zero,neg,2024-03-24,84,45,Ongole
+Another preventable death due to lack of oxygen supply in district hospital,neg,2024-03-24,35,71,Ongole
+Hospital staff demanding bribes from poor patients disgraceful behavior,neg,2024-03-25,223,440,Chittoor
+Yoga and wellness drives are reducing lifestyle disease burden significantly,pos,2024-03-26,16,95,Machilipatnam
+Free dialysis centers opened in three more districts wonderful step forward,pos,2024-03-27,24,26,Ongole
+Community health workers trained under new program are making huge impact,pos,2024-03-27,108,29,Rajahmundry
+The new tuberculosis awareness drive is reaching villages that were never covered before,pos,2024-03-27,61,83,Bhimavaram
+Children malnourished in this district while officials celebrate campaign success,neg,2024-03-28,87,109,Visakhapatnam
+Malaria cases are surging and health department seems completely unprepared,neg,2024-03-28,51,98,Bhimavaram
+Medical college to collaborate with district hospitals for outreach programs,neu,2024-03-28,21,99,Kakinada
+Three weeks no insulin stock at government hospital diabetics are desperate,neg,2024-03-29,44,69,Kurnool
+Health ministry to release quarterly disease surveillance report on Friday,neu,2024-03-29,5,94,Kakinada
+Malaria cases are surging and health department seems completely unprepared,neg,2024-03-29,78,50,Chittoor
+School health program teaching kids hygiene habits that will last a lifetime,pos,2024-03-30,14,21,Tirupati
+Awareness pamphlets printed in language nobody here speaks total waste of money,neg,2024-03-30,28,35,Srikakulam
+Polio eradication effort in our state is nearly complete amazing progress,pos,2024-03-30,4,136,Kakinada
+Another preventable death due to lack of oxygen supply in district hospital,neg,2024-03-31,7,161,Guntur
+Awareness pamphlets printed in language nobody here speaks total waste of money,neg,2024-04-01,72,144,Guntur
+Rural hospitals have no doctors only empty buildings funded by our taxes,neg,2024-04-01,56,101,Vijayawada
+Malaria cases are surging and health department seems completely unprepared,neg,2024-04-01,11,240,Eluru
+New protocol for handling vector-borne disease outbreaks under review,neu,2024-04-02,11,102,Machilipatnam
+Yoga and wellness drives are reducing lifestyle disease burden significantly,pos,2024-04-02,13,9,Chittoor
+Yoga and wellness drives are reducing lifestyle disease burden significantly,pos,2024-04-02,1,42,Chittoor
+Clean water campaign combined with health awareness is transforming rural communities,pos,2024-04-03,44,92,Visakhapatnam
+Three weeks no insulin stock at government hospital diabetics are desperate,neg,2024-04-03,31,131,Machilipatnam
+Clean water campaign combined with health awareness is transforming rural communities,pos,2024-04-04,15,36,Vizianagaram
+Nutrition awareness camp helping mothers understand balanced diet for children,pos,2024-04-04,12,0,Chittoor
+Rural hospitals have no doctors only empty buildings funded by our taxes,neg,2024-04-04,172,27,Kurnool
+Misinformation about vaccines spreading fast on WhatsApp groups very dangerous,neg,2024-04-05,32,1,Kurnool
+New mobile health vans are bringing doctors directly to remote villages great work,pos,2024-04-06,10,31,Srikakulam
+The new tuberculosis awareness drive is reaching villages that were never covered before,pos,2024-04-07,74,76,Hindupur
+Local volunteers doing door to door health education such a wonderful initiative,pos,2024-04-07,25,22,Anantapur
+National immunization schedule updated details available at local health centers,neu,2024-04-08,51,147,Hindupur
+New diagnostic lab inaugurated at district hospital to improve testing capacity,neu,2024-04-08,66,109,Machilipatnam
+People are dying waiting for ambulances and nobody is taking responsibility,neg,2024-04-09,135,146,Ongole
+Cancer screening camp detected early cases and saved lives incredible service,pos,2024-04-09,2,10,Machilipatnam
+Campaign posters are everywhere but medicine supply in clinics is still zero,neg,2024-04-10,93,94,Bhimavaram
+The new tuberculosis awareness drive is reaching villages that were never covered before,pos,2024-04-10,71,142,Chittoor
+Blood donation drive exceeded targets by 200 percent community spirit is strong,pos,2024-04-10,54,40,Machilipatnam
+Eye care camp organized by NGO gave free spectacles to hundreds of elderly,pos,2024-04-11,7,105,Anantapur
+Health data dashboard launched for tracking campaign performance statewide,neu,2024-04-11,26,92,Guntur
+Ration shops not supplying nutritional supplements to pregnant women as promised,neg,2024-04-11,4,0,Tenali
+Health department announces recruitment drive for 500 community health workers,neu,2024-04-13,31,3,Narasaraopet
+The new tuberculosis awareness drive is reaching villages that were never covered before,pos,2024-04-13,23,8,Vizianagaram
+Hospital staff demanding bribes from poor patients disgraceful behavior,neg,2024-04-13,41,83,Machilipatnam
+Dengue prevention campaign has really reduced cases in our district this year,pos,2024-04-13,11,48,Tenali
+Fake medicines flooding the market and authorities are doing absolutely nothing,neg,2024-04-13,212,50,Eluru
+Community health workers trained under new program are making huge impact,pos,2024-04-13,84,49,Eluru
+Free health checkup camp today was absolutely packed community is responding well,pos,2024-04-14,79,8,Vijayawada
+Government subsidized medicines reaching the right people now big improvement,pos,2024-04-14,33,27,Hindupur
+Monsoon season and no vector control measures dengue outbreak imminent,neg,2024-04-14,12,47,Chittoor
+Blood donation drive exceeded targets by 200 percent community spirit is strong,pos,2024-04-14,13,276,Rajahmundry
+People are dying waiting for ambulances and nobody is taking responsibility,neg,2024-04-14,53,44,Tirupati
+Telemedicine pilot program extended to five more districts as per official notice,neu,2024-04-14,17,67,Anantapur
+New protocol for handling vector-borne disease outbreaks under review,neu,2024-04-15,44,65,Nellore
+Annual malaria prevention campaign scheduled to begin next month,neu,2024-04-15,11,105,Chittoor
+Health minister to address parliament on disease control progress this session,neu,2024-04-15,8,48,Srikakulam
+Sewage overflow near residential area reported two weeks ago still not fixed,neg,2024-04-16,72,27,Machilipatnam
+Health minister to address parliament on disease control progress this session,neu,2024-04-16,138,10,Kakinada
+Polio eradication effort in our state is nearly complete amazing progress,pos,2024-04-16,22,65,Kurnool
+School health program teaching kids hygiene habits that will last a lifetime,pos,2024-04-16,76,3,Narasaraopet
+Awareness pamphlets printed in language nobody here speaks total waste of money,neg,2024-04-16,77,39,Vizianagaram
+Malaria cases are surging and health department seems completely unprepared,neg,2024-04-17,25,61,Machilipatnam
+State to conduct household health survey in rural areas starting next quarter,neu,2024-04-17,10,197,Tirupati
+Another preventable death due to lack of oxygen supply in district hospital,neg,2024-04-17,57,111,Vizianagaram
+Flu season started and there are no preventive measures in place at all,neg,2024-04-19,6,53,Guntur
+Awareness pamphlets printed in language nobody here speaks total waste of money,neg,2024-04-20,37,120,Machilipatnam
+Nutrition awareness camp helping mothers understand balanced diet for children,pos,2024-04-20,7,50,Ongole
+Eye care camp organized by NGO gave free spectacles to hundreds of elderly,pos,2024-04-21,96,37,Machilipatnam
+Clean water campaign combined with health awareness is transforming rural communities,pos,2024-04-22,7,25,Hindupur
+Awareness pamphlets printed in language nobody here speaks total waste of money,neg,2024-04-22,4,134,Ongole
+Telemedicine pilot program extended to five more districts as per official notice,neu,2024-04-23,14,6,Chittoor
+New mobile health vans are bringing doctors directly to remote villages great work,pos,2024-04-23,7,21,Anantapur
+Misinformation about vaccines spreading fast on WhatsApp groups very dangerous,neg,2024-04-23,18,27,Vijayawada
+Health minister to address parliament on disease control progress this session,neu,2024-04-23,79,3,Vijayawada
+People are dying waiting for ambulances and nobody is taking responsibility,neg,2024-04-24,150,135,Vizianagaram
+People are dying waiting for ambulances and nobody is taking responsibility,neg,2024-04-24,54,13,Kurnool
+Monsoon season and no vector control measures dengue outbreak imminent,neg,2024-04-24,4,41,Machilipatnam
+Clean water campaign combined with health awareness is transforming rural communities,pos,2024-04-24,1,43,Kurnool
+Hospital staff demanding bribes from poor patients disgraceful behavior,neg,2024-04-24,54,93,Kadapa
+Local volunteers doing door to door health education such a wonderful initiative,pos,2024-04-24,5,230,Machilipatnam
+Malaria cases are surging and health department seems completely unprepared,neg,2024-04-25,22,37,Vijayawada
+Nutrition awareness camp helping mothers understand balanced diet for children,pos,2024-04-25,45,18,Kurnool
+Misinformation about vaccines spreading fast on WhatsApp groups very dangerous,neg,2024-04-25,69,88,Tenali
+Health helpline always busy or not answered what is the point of having it,neg,2024-04-25,13,8,Narasaraopet
+Health helpline always busy or not answered what is the point of having it,neg,2024-04-25,34,130,Ongole
+Free health checkup camp today was absolutely packed community is responding well,pos,2024-04-26,34,267,Anantapur
+The anti-tobacco campaign in colleges is working students are quitting smoking,pos,2024-04-28,1,572,Vizianagaram
+Mental wellness workshops at workplaces gaining popularity finally being taken seriously,pos,2024-04-28,43,73,Nellore
+Sanitation crisis in slums ignored by health campaign completely out of touch,neg,2024-04-28,31,40,Tirupati
+National immunization schedule updated details available at local health centers,neu,2024-04-29,12,93,Chittoor
+New mobile health vans are bringing doctors directly to remote villages great work,pos,2024-05-01,10,66,Visakhapatnam
+Update on TB elimination roadmap to be presented at national conference,neu,2024-05-01,6,17,Machilipatnam
+Health workers on strike again patients left to suffer this is unacceptable,neg,2024-05-02,18,82,Ongole
+Nutrition awareness camp helping mothers understand balanced diet for children,pos,2024-05-02,29,9,Bhimavaram
+Three weeks no insulin stock at government hospital diabetics are desperate,neg,2024-05-03,0,21,Srikakulam
+Blood donation drive exceeded targets by 200 percent community spirit is strong,pos,2024-05-03,48,61,Narasaraopet
+Dengue prevention campaign has really reduced cases in our district this year,pos,2024-05-03,67,50,Hindupur
+Mental wellness workshops at workplaces gaining popularity finally being taken seriously,pos,2024-05-03,288,63,Machilipatnam
+Health minister to address parliament on disease control progress this session,neu,2024-05-04,65,589,Rajahmundry
+Health minister to address parliament on disease control progress this session,neu,2024-05-05,32,14,Eluru
+The new tuberculosis awareness drive is reaching villages that were never covered before,pos,2024-05-05,129,195,Hindupur
+Telemedicine pilot program extended to five more districts as per official notice,neu,2024-05-05,35,37,Guntur
+New ambulance fleet of 80 vehicles allocated to underserved districts,neu,2024-05-05,16,101,Tirupati
+The anti-tobacco campaign in colleges is working students are quitting smoking,pos,2024-05-06,29,353,Guntur
+Training program for ASHA workers to be conducted across 12 districts,neu,2024-05-06,88,56,Ongole
+Three weeks no insulin stock at government hospital diabetics are desperate,neg,2024-05-07,33,64,Bhimavaram
+Eye care camp organized by NGO gave free spectacles to hundreds of elderly,pos,2024-05-08,7,214,Vizianagaram
+Rural hospitals have no doctors only empty buildings funded by our taxes,neg,2024-05-09,61,12,Ongole
+Health workers on strike again patients left to suffer this is unacceptable,neg,2024-05-09,8,64,Hindupur
+Clean water campaign combined with health awareness is transforming rural communities,pos,2024-05-09,42,97,Anantapur
+Local volunteers doing door to door health education such a wonderful initiative,pos,2024-05-09,15,29,Bhimavaram
+Blood donation drive exceeded targets by 200 percent community spirit is strong,pos,2024-05-10,39,84,Srikakulam
+Health workers on strike again patients left to suffer this is unacceptable,neg,2024-05-10,61,15,Hindupur
+Cancer screening camp detected early cases and saved lives incredible service,pos,2024-05-10,7,47,Kurnool
+Flu season started and there are no preventive measures in place at all,neg,2024-05-11,35,49,Vizianagaram
+The new tuberculosis awareness drive is reaching villages that were never covered before,pos,2024-05-12,204,302,Vizianagaram
+Flu season started and there are no preventive measures in place at all,neg,2024-05-12,86,56,Kakinada
+Free health checkup camp today was absolutely packed community is responding well,pos,2024-05-13,88,29,Guntur
+The anti-tobacco campaign in colleges is working students are quitting smoking,pos,2024-05-15,92,92,Machilipatnam
+Free health checkup camp today was absolutely packed community is responding well,pos,2024-05-15,6,28,Srikakulam
+Update on TB elimination roadmap to be presented at national conference,neu,2024-05-15,56,100,Bhimavaram
+Campaign posters are everywhere but medicine supply in clinics is still zero,neg,2024-05-16,51,176,Hindupur
+New mobile health vans are bringing doctors directly to remote villages great work,pos,2024-05-16,77,194,Bhimavaram
+Ration shops not supplying nutritional supplements to pregnant women as promised,neg,2024-05-17,25,13,Kurnool
+Health ministry to release quarterly disease surveillance report on Friday,neu,2024-05-17,44,0,Ongole
+Update on TB elimination roadmap to be presented at national conference,neu,2024-05-18,75,25,Visakhapatnam
+Three weeks no insulin stock at government hospital diabetics are desperate,neg,2024-05-19,29,6,Tenali
+People are dying waiting for ambulances and nobody is taking responsibility,neg,2024-05-19,90,173,Nellore
+Local volunteers doing door to door health education such a wonderful initiative,pos,2024-05-20,13,125,Eluru
+Free dialysis centers opened in three more districts wonderful step forward,pos,2024-05-20,12,171,Kurnool
+Medical college to collaborate with district hospitals for outreach programs,neu,2024-05-20,27,35,Tenali
+Maternal health program is showing incredible results in reducing infant mortality,pos,2024-05-21,0,44,Visakhapatnam
+Cancer screening camp detected early cases and saved lives incredible service,pos,2024-05-22,6,157,Kurnool
+Rural hospitals have no doctors only empty buildings funded by our taxes,neg,2024-05-22,23,106,Bhimavaram
+Community health workers trained under new program are making huge impact,pos,2024-05-22,24,56,Tirupati
+Annual malaria prevention campaign scheduled to begin next month,neu,2024-05-23,112,168,Ongole
+Malaria cases are surging and health department seems completely unprepared,neg,2024-05-23,33,15,Visakhapatnam
+Misinformation about vaccines spreading fast on WhatsApp groups very dangerous,neg,2024-05-23,24,140,Narasaraopet
+Medical college to collaborate with district hospitals for outreach programs,neu,2024-05-23,222,2,Kadapa
+Health workers on strike again patients left to suffer this is unacceptable,neg,2024-05-24,84,86,Vizianagaram
+Cancer screening camp detected early cases and saved lives incredible service,pos,2024-05-25,39,49,Vizianagaram
+Health workers on strike again patients left to suffer this is unacceptable,neg,2024-05-25,89,153,Tenali
+Ration shops not supplying nutritional supplements to pregnant women as promised,neg,2024-05-25,5,159,Bhimavaram
+Eye care camp organized by NGO gave free spectacles to hundreds of elderly,pos,2024-05-26,25,100,Kadapa
+WHO delegation visiting state health facilities for routine assessment,neu,2024-05-26,44,84,Vijayawada
+Traditional healers spreading dangerous remedies and nobody is stopping them,neg,2024-05-26,21,54,Tirupati
+State to conduct household health survey in rural areas starting next quarter,neu,2024-05-27,36,63,Rajahmundry
+Telemedicine pilot program extended to five more districts as per official notice,neu,2024-05-27,29,70,Tirupati
+New protocol for handling vector-borne disease outbreaks under review,neu,2024-05-27,61,5,Tirupati
+Free health checkup camp today was absolutely packed community is responding well,pos,2024-05-27,7,79,Srikakulam
+Rural hospitals have no doctors only empty buildings funded by our taxes,neg,2024-05-28,202,23,Kadapa
+Children malnourished in this district while officials celebrate campaign success,neg,2024-05-28,49,243,Kurnool
+Awareness pamphlets printed in language nobody here speaks total waste of money,neg,2024-05-28,8,49,Vijayawada
+Misinformation about vaccines spreading fast on WhatsApp groups very dangerous,neg,2024-05-28,91,30,Vijayawada
+Children malnourished in this district while officials celebrate campaign success,neg,2024-05-29,56,95,Hindupur
+Traditional healers spreading dangerous remedies and nobody is stopping them,neg,2024-05-29,75,27,Srikakulam
+Three weeks no insulin stock at government hospital diabetics are desperate,neg,2024-05-30,18,66,Ongole
+People are dying waiting for ambulances and nobody is taking responsibility,neg,2024-05-30,6,229,Kakinada
+Children malnourished in this district while officials celebrate campaign success,neg,2024-05-30,14,49,Bhimavaram
+Misinformation about vaccines spreading fast on WhatsApp groups very dangerous,neg,2024-05-31,26,17,Bhimavaram
+Malaria cases are surging and health department seems completely unprepared,neg,2024-05-31,76,31,Machilipatnam
+Campaign posters are everywhere but medicine supply in clinics is still zero,neg,2024-06-01,57,17,Kurnool
+Mental health is still a taboo nobody talks about it campaigns are useless,neg,2024-06-01,18,6,Machilipatnam
+Mental health is still a taboo nobody talks about it campaigns are useless,neg,2024-06-02,4,38,Eluru
+Monsoon season and no vector control measures dengue outbreak imminent,neg,2024-06-02,89,92,Kakinada
+Sanitation crisis in slums ignored by health campaign completely out of touch,neg,2024-06-04,51,24,Tirupati
+Another preventable death due to lack of oxygen supply in district hospital,neg,2024-06-04,23,82,Machilipatnam
+Malaria cases are surging and health department seems completely unprepared,neg,2024-06-04,80,30,Chittoor
+Three weeks no insulin stock at government hospital diabetics are desperate,neg,2024-06-05,99,38,Tirupati
+Sanitation crisis in slums ignored by health campaign completely out of touch,neg,2024-06-05,37,64,Ongole
+People are dying waiting for ambulances and nobody is taking responsibility,neg,2024-06-05,59,14,Tenali
+Awareness pamphlets printed in language nobody here speaks total waste of money,neg,2024-06-06,1,9,Tenali
+Children malnourished in this district while officials celebrate campaign success,neg,2024-06-06,140,53,Vijayawada
+Three weeks no insulin stock at government hospital diabetics are desperate,neg,2024-06-08,1,8,Narasaraopet
+Monsoon season and no vector control measures dengue outbreak imminent,neg,2024-06-08,57,78,Narasaraopet
+Hospital staff demanding bribes from poor patients disgraceful behavior,neg,2024-06-08,1,10,Chittoor
+Mental health is still a taboo nobody talks about it campaigns are useless,neg,2024-06-08,11,16,Tenali
+Monsoon season and no vector control measures dengue outbreak imminent,neg,2024-06-08,6,134,Bhimavaram
+Sanitation crisis in slums ignored by health campaign completely out of touch,neg,2024-06-09,3,50,Eluru
+Misinformation about vaccines spreading fast on WhatsApp groups very dangerous,neg,2024-06-09,6,19,Tirupati
+Children malnourished in this district while officials celebrate campaign success,neg,2024-06-10,52,22,Chittoor
+Malaria cases are surging and health department seems completely unprepared,neg,2024-06-10,97,24,Eluru
+Health workers on strike again patients left to suffer this is unacceptable,neg,2024-06-11,48,64,Machilipatnam
+Hospital staff demanding bribes from poor patients disgraceful behavior,neg,2024-06-11,37,4,Vizianagaram
+Pharmaceutical price control board reviewing essential medicines list,neu,2024-06-11,24,13,Anantapur
+Sewage overflow near residential area reported two weeks ago still not fixed,neg,2024-06-12,8,211,Kakinada
+Telemedicine pilot program extended to five more districts as per official notice,neu,2024-06-13,42,22,Ongole
+Yoga and wellness drives are reducing lifestyle disease burden significantly,pos,2024-06-14,43,0,Chittoor
+Polio eradication effort in our state is nearly complete amazing progress,pos,2024-06-14,111,17,Hindupur
+Polio eradication effort in our state is nearly complete amazing progress,pos,2024-06-14,20,173,Vizianagaram
+Pharmaceutical price control board reviewing essential medicines list,neu,2024-06-16,28,45,Hindupur
+People are dying waiting for ambulances and nobody is taking responsibility,neg,2024-06-17,36,4,Kadapa
+Nutrition awareness camp helping mothers understand balanced diet for children,pos,2024-06-17,72,38,Nellore
+New diagnostic lab inaugurated at district hospital to improve testing capacity,neu,2024-06-17,11,9,Narasaraopet
+Update on TB elimination roadmap to be presented at national conference,neu,2024-06-18,16,40,Hindupur
+Clean water campaign combined with health awareness is transforming rural communities,pos,2024-06-18,9,45,Guntur
+Cancer screening camp detected early cases and saved lives incredible service,pos,2024-06-18,93,40,Bhimavaram
+Training program for ASHA workers to be conducted across 12 districts,neu,2024-06-18,5,42,Eluru
+School health program teaching kids hygiene habits that will last a lifetime,pos,2024-06-19,2,89,Guntur
+Mental health is still a taboo nobody talks about it campaigns are useless,neg,2024-06-19,16,4,Bhimavaram
+Maternal health program is showing incredible results in reducing infant mortality,pos,2024-06-19,110,125,Chittoor
+Annual malaria prevention campaign scheduled to begin next month,neu,2024-06-20,28,78,Visakhapatnam
+Children malnourished in this district while officials celebrate campaign success,neg,2024-06-20,7,75,Kakinada
+Health workers on strike again patients left to suffer this is unacceptable,neg,2024-06-20,32,49,Tenali
+Campaign posters are everywhere but medicine supply in clinics is still zero,neg,2024-06-20,155,116,Chittoor
+Yoga and wellness drives are reducing lifestyle disease burden significantly,pos,2024-06-20,12,34,Kadapa
+Maternal health program is showing incredible results in reducing infant mortality,pos,2024-06-21,70,48,Guntur
+Digital health records initiative will finally bring efficiency to our clinics,pos,2024-06-21,9,14,Tenali
+Mental health is still a taboo nobody talks about it campaigns are useless,neg,2024-06-21,31,61,Chittoor
+Inter-departmental committee formed to address social determinants of health,neu,2024-06-21,20,0,Kakinada
+School health program teaching kids hygiene habits that will last a lifetime,pos,2024-06-21,78,112,Eluru
+Health department announces recruitment drive for 500 community health workers,neu,2024-06-22,3,171,Kadapa
+Fake medicines flooding the market and authorities are doing absolutely nothing,neg,2024-06-22,148,24,Narasaraopet
+Community health workers trained under new program are making huge impact,pos,2024-06-23,34,99,Eluru
+Polio eradication effort in our state is nearly complete amazing progress,pos,2024-06-25,191,209,Nellore
+School health program teaching kids hygiene habits that will last a lifetime,pos,2024-06-25,19,96,Vizianagaram
+Awareness pamphlets printed in language nobody here speaks total waste of money,neg,2024-06-26,10,96,Nellore
+Dengue prevention campaign has really reduced cases in our district this year,pos,2024-06-26,97,77,Nellore
+Awareness pamphlets printed in language nobody here speaks total waste of money,neg,2024-06-26,17,299,Guntur
+Hospital staff demanding bribes from poor patients disgraceful behavior,neg,2024-06-27,84,96,Vijayawada
+Children malnourished in this district while officials celebrate campaign success,neg,2024-06-28,9,155,Nellore
+Mental wellness workshops at workplaces gaining popularity finally being taken seriously,pos,2024-06-28,91,317,Ongole
+New protocol for handling vector-borne disease outbreaks under review,neu,2024-06-29,14,39,Rajahmundry
+Annual malaria prevention campaign scheduled to begin next month,neu,2024-06-30,57,117,Kadapa
+Mental health is still a taboo nobody talks about it campaigns are useless,neg,2024-07-01,17,51,Hindupur
+New ambulance fleet of 80 vehicles allocated to underserved districts,neu,2024-07-01,64,80,Visakhapatnam
+Three weeks no insulin stock at government hospital diabetics are desperate,neg,2024-07-02,13,507,Machilipatnam
+Clean water campaign combined with health awareness is transforming rural communities,pos,2024-07-02,14,213,Vizianagaram
+School health program teaching kids hygiene habits that will last a lifetime,pos,2024-07-03,14,142,Chittoor
+New diagnostic lab inaugurated at district hospital to improve testing capacity,neu,2024-07-03,24,12,Ongole
+Government subsidized medicines reaching the right people now big improvement,pos,2024-07-06,85,192,Srikakulam
+Dengue prevention campaign has really reduced cases in our district this year,pos,2024-07-06,27,143,Chittoor
+Misinformation about vaccines spreading fast on WhatsApp groups very dangerous,neg,2024-07-07,46,8,Rajahmundry
+The anti-tobacco campaign in colleges is working students are quitting smoking,pos,2024-07-07,3,584,Guntur
+Annual malaria prevention campaign scheduled to begin next month,neu,2024-07-07,74,63,Anantapur
+Digital health records initiative will finally bring efficiency to our clinics,pos,2024-07-08,26,164,Narasaraopet
+Nutrition awareness camp helping mothers understand balanced diet for children,pos,2024-07-08,93,1,Vijayawada
+Children malnourished in this district while officials celebrate campaign success,neg,2024-07-09,51,15,Anantapur
+Health department announces recruitment drive for 500 community health workers,neu,2024-07-09,4,28,Machilipatnam
+Health minister to address parliament on disease control progress this session,neu,2024-07-11,24,38,Vijayawada
+The new tuberculosis awareness drive is reaching villages that were never covered before,pos,2024-07-12,8,81,Machilipatnam
+Malaria cases are surging and health department seems completely unprepared,neg,2024-07-12,52,35,Bhimavaram
+Annual malaria prevention campaign scheduled to begin next month,neu,2024-07-14,84,82,Kurnool
+New ambulance fleet of 80 vehicles allocated to underserved districts,neu,2024-07-15,23,103,Eluru
+Awareness pamphlets printed in language nobody here speaks total waste of money,neg,2024-07-15,52,41,Vijayawada
+Government subsidized medicines reaching the right people now big improvement,pos,2024-07-15,85,6,Tirupati
+Medical college to collaborate with district hospitals for outreach programs,neu,2024-07-16,41,178,Anantapur
+Flu season started and there are no preventive measures in place at all,neg,2024-07-16,15,143,Ongole
+Misinformation about vaccines spreading fast on WhatsApp groups very dangerous,neg,2024-07-16,12,31,Kadapa
+Traditional healers spreading dangerous remedies and nobody is stopping them,neg,2024-07-18,10,82,Tenali
+Awareness pamphlets printed in language nobody here speaks total waste of money,neg,2024-07-18,67,26,Hindupur
+Health ministry to release quarterly disease surveillance report on Friday,neu,2024-07-19,21,24,Kurnool
+The new tuberculosis awareness drive is reaching villages that were never covered before,pos,2024-07-19,98,31,Chittoor
+The new tuberculosis awareness drive is reaching villages that were never covered before,pos,2024-07-21,4,60,Rajahmundry
+Fake medicines flooding the market and authorities are doing absolutely nothing,neg,2024-07-22,3,19,Nellore
+National immunization schedule updated details available at local health centers,neu,2024-07-22,74,83,Kakinada
+Rural hospitals have no doctors only empty buildings funded by our taxes,neg,2024-07-22,28,24,Eluru
+Free dialysis centers opened in three more districts wonderful step forward,pos,2024-07-23,30,64,Tirupati
+The new tuberculosis awareness drive is reaching villages that were never covered before,pos,2024-07-24,32,118,Hindupur
+Misinformation about vaccines spreading fast on WhatsApp groups very dangerous,neg,2024-07-24,9,46,Guntur
+Eye care camp organized by NGO gave free spectacles to hundreds of elderly,pos,2024-07-25,123,93,Tirupati
+Health minister to address parliament on disease control progress this session,neu,2024-07-25,34,17,Ongole
+The anti-tobacco campaign in colleges is working students are quitting smoking,pos,2024-07-25,30,42,Nellore
+Three weeks no insulin stock at government hospital diabetics are desperate,neg,2024-07-25,27,107,Visakhapatnam
+Another preventable death due to lack of oxygen supply in district hospital,neg,2024-07-27,3,36,Vijayawada
+Polio eradication effort in our state is nearly complete amazing progress,pos,2024-07-27,81,45,Hindupur
+Children malnourished in this district while officials celebrate campaign success,neg,2024-07-27,96,112,Narasaraopet
+Children malnourished in this district while officials celebrate campaign success,neg,2024-07-27,9,60,Kurnool
+Eye care camp organized by NGO gave free spectacles to hundreds of elderly,pos,2024-07-27,21,117,Visakhapatnam
+Malaria cases are surging and health department seems completely unprepared,neg,2024-07-28,125,145,Eluru
+Mental health is still a taboo nobody talks about it campaigns are useless,neg,2024-07-28,67,64,Rajahmundry
+Mental health is still a taboo nobody talks about it campaigns are useless,neg,2024-07-29,0,301,Visakhapatnam
+Monsoon season and no vector control measures dengue outbreak imminent,neg,2024-07-29,73,319,Ongole
+Another preventable death due to lack of oxygen supply in district hospital,neg,2024-07-29,17,98,Visakhapatnam
+Mental health is still a taboo nobody talks about it campaigns are useless,neg,2024-07-30,42,170,Eluru
+New ambulance fleet of 80 vehicles allocated to underserved districts,neu,2024-07-31,51,92,Srikakulam
+The anti-tobacco campaign in colleges is working students are quitting smoking,pos,2024-08-01,69,87,Srikakulam
+Campaign posters are everywhere but medicine supply in clinics is still zero,neg,2024-08-01,112,10,Vizianagaram
+Monsoon season and no vector control measures dengue outbreak imminent,neg,2024-08-01,50,53,Kakinada
+Health helpline always busy or not answered what is the point of having it,neg,2024-08-01,15,66,Bhimavaram
+Monsoon season and no vector control measures dengue outbreak imminent,neg,2024-08-02,69,76,Guntur
+New mobile health vans are bringing doctors directly to remote villages great work,pos,2024-08-02,11,26,Nellore
+Misinformation about vaccines spreading fast on WhatsApp groups very dangerous,neg,2024-08-02,34,401,Machilipatnam
+Monsoon season and no vector control measures dengue outbreak imminent,neg,2024-08-02,13,76,Hindupur
+Flu season started and there are no preventive measures in place at all,neg,2024-08-02,7,26,Guntur
+Clean water campaign combined with health awareness is transforming rural communities,pos,2024-08-03,31,225,Eluru
+Monsoon season and no vector control measures dengue outbreak imminent,neg,2024-08-03,13,8,Ongole
+Ration shops not supplying nutritional supplements to pregnant women as promised,neg,2024-08-03,51,108,Hindupur
+People are dying waiting for ambulances and nobody is taking responsibility,neg,2024-08-03,15,135,Ongole
+Local volunteers doing door to door health education such a wonderful initiative,pos,2024-08-03,39,36,Bhimavaram
+Another preventable death due to lack of oxygen supply in district hospital,neg,2024-08-03,4,41,Visakhapatnam
+Community health workers trained under new program are making huge impact,pos,2024-08-04,45,60,Srikakulam
+Nutrition awareness camp helping mothers understand balanced diet for children,pos,2024-08-04,48,49,Ongole
+Clean water campaign combined with health awareness is transforming rural communities,pos,2024-08-05,112,44,Guntur
+Campaign posters are everywhere but medicine supply in clinics is still zero,neg,2024-08-05,132,21,Rajahmundry
+State to conduct household health survey in rural areas starting next quarter,neu,2024-08-06,10,104,Kadapa
+Digital health records initiative will finally bring efficiency to our clinics,pos,2024-08-06,78,200,Machilipatnam
+Health workers on strike again patients left to suffer this is unacceptable,neg,2024-08-07,103,11,Machilipatnam
+Clean water campaign combined with health awareness is transforming rural communities,pos,2024-08-07,31,10,Vizianagaram
+Campaign posters are everywhere but medicine supply in clinics is still zero,neg,2024-08-08,35,35,Bhimavaram
+Free dialysis centers opened in three more districts wonderful step forward,pos,2024-08-08,33,23,Narasaraopet
+Fake medicines flooding the market and authorities are doing absolutely nothing,neg,2024-08-08,45,134,Narasaraopet
+Clean water campaign combined with health awareness is transforming rural communities,pos,2024-08-09,9,40,Bhimavaram
+Maternal health program is showing incredible results in reducing infant mortality,pos,2024-08-09,70,25,Vizianagaram
+Ration shops not supplying nutritional supplements to pregnant women as promised,neg,2024-08-09,7,109,Guntur
+Government subsidized medicines reaching the right people now big improvement,pos,2024-08-10,21,109,Bhimavaram
+Blood donation drive exceeded targets by 200 percent community spirit is strong,pos,2024-08-10,68,72,Kadapa
+Traditional healers spreading dangerous remedies and nobody is stopping them,neg,2024-08-10,20,36,Vizianagaram
+Dengue prevention campaign has really reduced cases in our district this year,pos,2024-08-10,49,4,Kakinada
+Three weeks no insulin stock at government hospital diabetics are desperate,neg,2024-08-11,50,89,Srikakulam
+People are dying waiting for ambulances and nobody is taking responsibility,neg,2024-08-11,103,64,Nellore
+Maternal health program is showing incredible results in reducing infant mortality,pos,2024-08-11,50,72,Kakinada
+The new tuberculosis awareness drive is reaching villages that were never covered before,pos,2024-08-12,2,49,Guntur
+New mobile health vans are bringing doctors directly to remote villages great work,pos,2024-08-12,76,120,Ongole
+School health program teaching kids hygiene habits that will last a lifetime,pos,2024-08-12,7,331,Hindupur
+Cancer screening camp detected early cases and saved lives incredible service,pos,2024-08-12,24,77,Kadapa
+Sanitation crisis in slums ignored by health campaign completely out of touch,neg,2024-08-12,22,29,Hindupur
+Yoga and wellness drives are reducing lifestyle disease burden significantly,pos,2024-08-13,103,18,Kadapa
+Health data dashboard launched for tracking campaign performance statewide,neu,2024-08-13,4,215,Vizianagaram
+School health program teaching kids hygiene habits that will last a lifetime,pos,2024-08-13,32,131,Anantapur
+Misinformation about vaccines spreading fast on WhatsApp groups very dangerous,neg,2024-08-15,183,23,Hindupur
+New mobile health vans are bringing doctors directly to remote villages great work,pos,2024-08-15,168,97,Bhimavaram
+Health ministry to release quarterly disease surveillance report on Friday,neu,2024-08-16,15,27,Vijayawada
+Blood donation drive exceeded targets by 200 percent community spirit is strong,pos,2024-08-16,69,341,Bhimavaram
+Annual malaria prevention campaign scheduled to begin next month,neu,2024-08-16,12,8,Srikakulam
+Public consultation on revised mental health policy open until end of month,neu,2024-08-17,16,6,Kakinada
+New mobile health vans are bringing doctors directly to remote villages great work,pos,2024-08-18,33,88,Anantapur
+Rural hospitals have no doctors only empty buildings funded by our taxes,neg,2024-08-18,45,8,Srikakulam
+New diagnostic lab inaugurated at district hospital to improve testing capacity,neu,2024-08-18,57,138,Rajahmundry
+Ration shops not supplying nutritional supplements to pregnant women as promised,neg,2024-08-18,42,185,Rajahmundry
+National immunization schedule updated details available at local health centers,neu,2024-08-18,143,9,Kakinada
+Polio eradication effort in our state is nearly complete amazing progress,pos,2024-08-19,25,125,Anantapur
+Clean water campaign combined with health awareness is transforming rural communities,pos,2024-08-19,4,292,Ongole
+Rural hospitals have no doctors only empty buildings funded by our taxes,neg,2024-08-19,8,166,Nellore
+People are dying waiting for ambulances and nobody is taking responsibility,neg,2024-08-20,112,22,Ongole
+Yoga and wellness drives are reducing lifestyle disease burden significantly,pos,2024-08-20,68,102,Chittoor
+Ration shops not supplying nutritional supplements to pregnant women as promised,neg,2024-08-20,28,30,Anantapur
+Nutrition awareness camp helping mothers understand balanced diet for children,pos,2024-08-20,60,150,Hindupur
+Inter-departmental committee formed to address social determinants of health,neu,2024-08-21,118,40,Tirupati
+School health program teaching kids hygiene habits that will last a lifetime,pos,2024-08-22,49,343,Guntur
+Rural hospitals have no doctors only empty buildings funded by our taxes,neg,2024-08-22,13,82,Hindupur
+New mobile health vans are bringing doctors directly to remote villages great work,pos,2024-08-23,90,206,Srikakulam
+Free health checkup camp today was absolutely packed community is responding well,pos,2024-08-23,20,68,Kurnool
+Flu season started and there are no preventive measures in place at all,neg,2024-08-23,131,109,Chittoor
+Cancer screening camp detected early cases and saved lives incredible service,pos,2024-08-23,46,148,Nellore
+Mental wellness workshops at workplaces gaining popularity finally being taken seriously,pos,2024-08-23,34,27,Machilipatnam
+Three weeks no insulin stock at government hospital diabetics are desperate,neg,2024-08-24,67,116,Vijayawada
+State to conduct household health survey in rural areas starting next quarter,neu,2024-08-24,72,30,Visakhapatnam
+Maternal health program is showing incredible results in reducing infant mortality,pos,2024-08-25,127,70,Kadapa
+Maternal health program is showing incredible results in reducing infant mortality,pos,2024-08-25,3,69,Visakhapatnam
+Government subsidized medicines reaching the right people now big improvement,pos,2024-08-25,35,58,Bhimavaram
+Update on TB elimination roadmap to be presented at national conference,neu,2024-08-26,33,38,Guntur
+The anti-tobacco campaign in colleges is working students are quitting smoking,pos,2024-08-26,6,17,Narasaraopet
+Three weeks no insulin stock at government hospital diabetics are desperate,neg,2024-08-26,51,21,Vijayawada
+Government subsidized medicines reaching the right people now big improvement,pos,2024-08-26,65,6,Tirupati
+Health ministry to release quarterly disease surveillance report on Friday,neu,2024-08-27,229,52,Anantapur
+Health department announces recruitment drive for 500 community health workers,neu,2024-08-27,15,270,Ongole
+Telemedicine pilot program extended to five more districts as per official notice,neu,2024-08-28,37,16,Bhimavaram
+Another preventable death due to lack of oxygen supply in district hospital,neg,2024-08-28,72,23,Machilipatnam
+Polio eradication effort in our state is nearly complete amazing progress,pos,2024-08-28,12,278,Tirupati
+Health department announces recruitment drive for 500 community health workers,neu,2024-08-29,72,49,Nellore
+New mobile health vans are bringing doctors directly to remote villages great work,pos,2024-08-30,6,22,Srikakulam
+Clean water campaign combined with health awareness is transforming rural communities,pos,2024-08-31,33,225,Vizianagaram
+Awareness pamphlets printed in language nobody here speaks total waste of money,neg,2024-09-01,15,3,Tenali
+National immunization schedule updated details available at local health centers,neu,2024-09-02,42,60,Tirupati
+Rural hospitals have no doctors only empty buildings funded by our taxes,neg,2024-09-02,24,163,Ongole
+Polio eradication effort in our state is nearly complete amazing progress,pos,2024-09-02,36,29,Visakhapatnam
+Annual malaria prevention campaign scheduled to begin next month,neu,2024-09-03,78,2,Kadapa
+Local volunteers doing door to door health education such a wonderful initiative,pos,2024-09-03,24,247,Hindupur
+Clean water campaign combined with health awareness is transforming rural communities,pos,2024-09-03,65,11,Chittoor
+Monsoon season and no vector control measures dengue outbreak imminent,neg,2024-09-04,28,144,Narasaraopet
+Yoga and wellness drives are reducing lifestyle disease burden significantly,pos,2024-09-04,6,7,Visakhapatnam
+Campaign posters are everywhere but medicine supply in clinics is still zero,neg,2024-09-05,206,132,Tenali
+Clean water campaign combined with health awareness is transforming rural communities,pos,2024-09-06,1,127,Guntur
+Health minister to address parliament on disease control progress this session,neu,2024-09-06,39,89,Kadapa
+Mental health is still a taboo nobody talks about it campaigns are useless,neg,2024-09-07,121,2,Narasaraopet
+Health helpline always busy or not answered what is the point of having it,neg,2024-09-07,10,13,Eluru
+Health helpline always busy or not answered what is the point of having it,neg,2024-09-08,3,37,Anantapur
+Clean water campaign combined with health awareness is transforming rural communities,pos,2024-09-08,79,20,Machilipatnam
+Annual malaria prevention campaign scheduled to begin next month,neu,2024-09-08,8,21,Srikakulam
+Clean water campaign combined with health awareness is transforming rural communities,pos,2024-09-09,2,42,Srikakulam
+Health data dashboard launched for tracking campaign performance statewide,neu,2024-09-09,14,28,Kurnool
+Community health workers trained under new program are making huge impact,pos,2024-09-09,15,13,Tirupati
+New protocol for handling vector-borne disease outbreaks under review,neu,2024-09-09,93,160,Chittoor
+Rural hospitals have no doctors only empty buildings funded by our taxes,neg,2024-09-10,241,9,Guntur
+School health program teaching kids hygiene habits that will last a lifetime,pos,2024-09-11,3,71,Tirupati
+Sanitation crisis in slums ignored by health campaign completely out of touch,neg,2024-09-11,15,72,Vizianagaram
+Blood donation drive exceeded targets by 200 percent community spirit is strong,pos,2024-09-12,7,148,Tirupati
+Public consultation on revised mental health policy open until end of month,neu,2024-09-12,45,58,Vizianagaram
+Health helpline always busy or not answered what is the point of having it,neg,2024-09-12,58,102,Machilipatnam
+Clean water campaign combined with health awareness is transforming rural communities,pos,2024-09-12,9,61,Ongole
+Another preventable death due to lack of oxygen supply in district hospital,neg,2024-09-13,30,47,Hindupur
+Rural hospitals have no doctors only empty buildings funded by our taxes,neg,2024-09-13,209,5,Machilipatnam
+Yoga and wellness drives are reducing lifestyle disease burden significantly,pos,2024-09-13,53,63,Hindupur
+Nutrition awareness camp helping mothers understand balanced diet for children,pos,2024-09-13,1,55,Nellore
+Community health workers trained under new program are making huge impact,pos,2024-09-14,15,145,Anantapur
+Health department announces recruitment drive for 500 community health workers,neu,2024-09-15,124,42,Machilipatnam
+District health officer to chair meeting on monsoon preparedness next week,neu,2024-09-15,18,43,Kadapa
+Pharmaceutical price control board reviewing essential medicines list,neu,2024-09-15,55,156,Nellore
+Another preventable death due to lack of oxygen supply in district hospital,neg,2024-09-15,19,104,Narasaraopet
+Medical college to collaborate with district hospitals for outreach programs,neu,2024-09-16,33,81,Kakinada
+Polio eradication effort in our state is nearly complete amazing progress,pos,2024-09-16,7,104,Ongole
+New mobile health vans are bringing doctors directly to remote villages great work,pos,2024-09-16,101,9,Srikakulam
+Flu season started and there are no preventive measures in place at all,neg,2024-09-16,13,12,Guntur
+Local volunteers doing door to door health education such a wonderful initiative,pos,2024-09-17,76,264,Kurnool
+National immunization schedule updated details available at local health centers,neu,2024-09-17,71,134,Guntur
+Children malnourished in this district while officials celebrate campaign success,neg,2024-09-18,142,1,Vizianagaram
+Eye care camp organized by NGO gave free spectacles to hundreds of elderly,pos,2024-09-18,143,5,Rajahmundry
+Fake medicines flooding the market and authorities are doing absolutely nothing,neg,2024-09-18,26,371,Tirupati
+National immunization schedule updated details available at local health centers,neu,2024-09-19,128,135,Visakhapatnam
+Local volunteers doing door to door health education such a wonderful initiative,pos,2024-09-19,35,425,Rajahmundry
+New mobile health vans are bringing doctors directly to remote villages great work,pos,2024-09-20,41,180,Kadapa
+Free dialysis centers opened in three more districts wonderful step forward,pos,2024-09-20,57,62,Eluru
+Local volunteers doing door to door health education such a wonderful initiative,pos,2024-09-20,11,73,Kadapa
+New diagnostic lab inaugurated at district hospital to improve testing capacity,neu,2024-09-21,41,89,Kurnool
+Pharmaceutical price control board reviewing essential medicines list,neu,2024-09-21,16,18,Bhimavaram
+School health program teaching kids hygiene habits that will last a lifetime,pos,2024-09-21,10,47,Ongole
+Hospital staff demanding bribes from poor patients disgraceful behavior,neg,2024-09-21,2,31,Visakhapatnam
+Mental wellness workshops at workplaces gaining popularity finally being taken seriously,pos,2024-09-22,11,6,Tirupati
+Maternal health program is showing incredible results in reducing infant mortality,pos,2024-09-23,84,279,Hindupur
+District health officer to chair meeting on monsoon preparedness next week,neu,2024-09-23,124,60,Hindupur
+New mobile health vans are bringing doctors directly to remote villages great work,pos,2024-09-25,7,211,Kurnool
+Public consultation on revised mental health policy open until end of month,neu,2024-09-25,16,169,Narasaraopet
+Mental wellness workshops at workplaces gaining popularity finally being taken seriously,pos,2024-09-25,1,309,Chittoor
+Sewage overflow near residential area reported two weeks ago still not fixed,neg,2024-09-26,88,96,Machilipatnam
+Maternal health program is showing incredible results in reducing infant mortality,pos,2024-09-26,269,215,Ongole
+Sanitation crisis in slums ignored by health campaign completely out of touch,neg,2024-09-27,210,0,Kadapa
+Public consultation on revised mental health policy open until end of month,neu,2024-09-27,4,71,Ongole
+People are dying waiting for ambulances and nobody is taking responsibility,neg,2024-09-27,24,117,Nellore
+Clean water campaign combined with health awareness is transforming rural communities,pos,2024-09-28,14,209,Visakhapatnam
+Misinformation about vaccines spreading fast on WhatsApp groups very dangerous,neg,2024-09-28,142,39,Hindupur
+Government subsidized medicines reaching the right people now big improvement,pos,2024-09-29,83,47,Ongole
+New protocol for handling vector-borne disease outbreaks under review,neu,2024-10-01,37,87,Kakinada
+Free health checkup camp today was absolutely packed community is responding well,pos,2024-10-01,75,90,Anantapur
+The new tuberculosis awareness drive is reaching villages that were never covered before,pos,2024-10-01,149,11,Nellore
+Rural hospitals have no doctors only empty buildings funded by our taxes,neg,2024-10-01,18,67,Kakinada
+Community health workers trained under new program are making huge impact,pos,2024-10-01,66,44,Anantapur
+People are dying waiting for ambulances and nobody is taking responsibility,neg,2024-10-01,54,60,Kadapa
