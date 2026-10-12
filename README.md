@@ -123,8 +123,8 @@ Python · TensorFlow / Keras · scikit-learn · Pandas · NumPy · Plotly · Str
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/<RatakondaMokshagna>/<Final-project>.git
+cd <Final-project>
 
 # 2. (Optional) create a virtual environment
 python -m venv venv
