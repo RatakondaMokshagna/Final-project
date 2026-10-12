@@ -3,7 +3,7 @@
 An end-to-end NLP system that monitors public sentiment and detects misinformation in COVID-19 tweets, then turns the results into actionable recommendations for public health communication teams, delivered through an interactive **Streamlit** dashboard.
 
 > **Authors:** Ratakonda Mokshagna (RA2211026050011) and T Dyana Vardhan Reddy (RA2211026050024) under Dr. C. Priyadharsini (Assistant Professor)
-> SRM Institute of Science and Technology, Tiruchirappalli, India
+> SRM Institute of Science and Technology, India
 
 ---
 
