@@ -153,20 +153,6 @@ streamlit run app.py
 - Graph-based misinformation propagation analysis
 - Correlation with epidemiological data and a formal user study with health communication officers
 
-## Citation
-
-If you use this work, please cite:
-
-```
-C. Priyadharsini, T. Dyana Vardhan Reddy, and R. Mokshagna, "Text Mining and Sentiment
-Analysis Based Intelligent System for Monitoring and Evaluating Public Health Awareness
-Campaigns," SRM Institute of Science and Technology, Tiruchirappalli, India.
-```
-
-## License
-
-Add your preferred license here (e.g. MIT).
-
 ## Acknowledgements
 
 Datasets derived from publicly available COVID-19 Twitter corpora, including the work of A. Lamsal. Built with TensorFlow, scikit-learn and Streamlit.
